@@ -1,0 +1,18 @@
+{
+  "name": "Snake Játék",
+  "description": "Egy egyszerű Snake játék KaiOS-re",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/icons/icon.png"
+  },
+  "type": "web",
+  "developer": {
+    "name": "Fejlesztő Neve",
+    "url": "http://fejleszto-oldala.com"
+  },
+  "permissions": {
+    "storage": {},
+    "fullscreen": {}
+  },
+  "orientation": "portrait"
+}
